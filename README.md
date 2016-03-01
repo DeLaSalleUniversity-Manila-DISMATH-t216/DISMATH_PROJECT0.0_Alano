@@ -1,6 +1,6 @@
 # DISMATH_PROJECT0.0_Alano
 
-## Designer Screenshots
+### Designer Screenshots
 - Design for Welcome Screen
 ![ScreenShot](Screenshot.4.png)
 
