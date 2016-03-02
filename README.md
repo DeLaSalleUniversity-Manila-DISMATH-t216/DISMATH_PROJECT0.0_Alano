@@ -8,14 +8,14 @@
 ![ScreenShot](Screenshot.5.png)
 
 - Design for Game
-![ScreenShot](Screenshot.6.png)
+![ScreenShot](Screenshot.2.png)
 
 ## Block Screenshots
 - Block for Welcome Screen
 ![ScreenShot](Screenshot.9.png)
 
 - Block for Home Screen
-![ScreenShot](Screenshot.8.png)
+![ScreenShot](Screenshot.3.png)
 
 - Block for Game
-![ScreenShot](Screenshot.7.png)
+![ScreenShot](Screenshot.1.png)
